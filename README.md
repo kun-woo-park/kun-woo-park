@@ -3,7 +3,7 @@
 
 ### Interest
 - Reinforcement Learning
-- Robotics control in Aero spaces
+- Robotics control in Aerospaces
 - Computer vision using DL (Such as Object detection)
 
 <div align=center>
