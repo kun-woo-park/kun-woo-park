@@ -1,16 +1,13 @@
-### Hi there 👋
+## Machine Learning Learner
+- Still learning and have a long way to go
 
-<!--
-**kun-woo-park/kun-woo-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest
+- Reinforcement Learning
+- Robotics control in Aero spaces
+- Computer vision using DL (Such as Object detection)
 
-Here are some ideas to get you started:
+<div align=center>
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kunwoopark97)](https://www.facebook.com/kunwoopark97)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunwoopark@khu.ac.kr)](mailto:kunwoopark@khu.ac.kr)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
