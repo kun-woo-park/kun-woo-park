@@ -2,7 +2,8 @@
 - Still learning and have a long way to go
 
 ### Interest
-- Reinforcement Learning
+- Overall Reinforcement Learning
+- Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
 - Robotics control in Aerospaces
 - Computer vision using DL (Such as Object detection)
 
