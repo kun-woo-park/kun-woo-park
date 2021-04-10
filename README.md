@@ -1,8 +1,9 @@
-## Hi there~!:laughing: This is KunWoo's github!
-## I am a machine learning learner
+### Hi there~!:laughing: This is KunWoo's github!
+
+**I am a machine learning learner**  
 :mans_shoe: I'm still learning and have a long~ way to go 
 
-## I'm interested in ...
+**I'm interested in ...**  
 
 :game_die: Overall Reinforcement Learning
 
