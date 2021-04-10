@@ -1,7 +1,6 @@
 ## Hi there~!:laughing: This is KunWoo's github!
-
-## I am a machine learning learner 
-- I'm still learning and have a long~ way to go :mans_shoe:
+**I am a machine learning learner**
+:mans_shoe: I'm still learning and have a long~ way to go 
 
 ## I'm interested in ...
 
