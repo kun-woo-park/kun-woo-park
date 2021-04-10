@@ -3,7 +3,7 @@
 ## I am a machine learning learner 
 - I'm still learning and have a long~ way to go :mans_shoe:
 
-## My interest is ...
+## I'm interested in ...
 
 :game_die: Overall Reinforcement Learning
 
