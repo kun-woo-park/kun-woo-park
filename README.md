@@ -1,12 +1,13 @@
 ## Hi there~!:laughing: This is KunWoo's github!
 
-## I am a machine learning learner (Especially deep reinforcement learning!)
+## I am a machine learning learner 
+- I'm still learning and have a long~ way to go :mans_shoe:
 
 ## My interest is ...
-- Overall Reinforcement Learning
-- Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
-- Robotics control in Aerospaces
-- Computer vision using DL (Such as Object detection)
+:game_die: Overall Reinforcement Learning
+:video_game: Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
+:airplane: Robotics control in Aerospaces
+:camera: Computer vision using DL (Such as Object detection)
 
 <div align=center>
 
