@@ -1,7 +1,8 @@
-## Machine Learning Learner
-- Still learning and have a long way to go
+## Hi there~!:laughing: This is KunWoo's github!
 
-### Interest
+## I am a machine learning learner (Especially deep reinforcement learning!)
+
+## My interest is ...
 - Overall Reinforcement Learning
 - Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
 - Robotics control in Aerospaces
