@@ -4,7 +4,6 @@
 :mans_shoe: I'm still learning and have a long~ way to go 
 
 **I'm interested in ...**  
-
 :game_die: Overall Reinforcement Learning
 
 :video_game: Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
