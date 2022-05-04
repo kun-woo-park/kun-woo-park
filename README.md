@@ -13,11 +13,17 @@
 :camera: Computer vision using DL (Such as 3D Object detection)
 
 **Here's My BIO**  
+
 B.S. in Electronic Engineering from Kyung Hee University(2016 ~ 2020)
+
 M.S in Deep Reinforcement Learning from Kyung Hee University(AISL, 2020 ~ 2021)
+
 A.I Researcher in Deltax co. ltd.(AI Lab, 2021)
+
 A.I Senior Researcher in Deltax co. ltd.(AI Lab, 2021 ~ 2022)
+
 Autonomous Driving Research Engineer in Beyless co. ltd.(Autonomous Driving Lab, 2022 ~)
+
 
 <div align=center>
 
