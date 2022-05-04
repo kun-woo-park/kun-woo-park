@@ -8,7 +8,7 @@
 
 :video_game: Model based Reinforcement Leraning (Such as Muzero, Trying to understand and implement...)
 
-:airplane: RL in Robotics control
+:airplane: RL in Robotics control, Various technologies for Autonomous Driving
 
 :camera: Computer vision using DL (Such as Object detection)
 
