@@ -6,9 +6,9 @@
 **I'm interested in ...**  
 :game_die: Overall Reinforcement Learning
 
-🚙: RL in Robotics control, Various technologies for Autonomous Driving
+🚙 RL in Robotics control, Various technologies for Autonomous Driving
 
-🚗: Planning and Prediction using RL for Autonomous Driving
+🚗 Planning and Prediction using RL for Autonomous Driving
 
 :camera: 3D Perception based on lidar and fused sensors
 
