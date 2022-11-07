@@ -1,6 +1,6 @@
 ### Hi there~!:laughing: This is KunWoo's github!
 
-**I am a machine learning learner**  
+**I am a autonomous driving system developer**  
 :mans_shoe: I'm still learning and have a long~ way to go 
 
 **I'm interested in ...**  
