@@ -1,4 +1,4 @@
-### Hi there~!:laughing: This is KunWoo's github!
+### Hi there~! :) This is KunWoo's github!
 
 **I am an autonomous driving system developer**  
 :mans_shoe: I'm still learning and have a long~ way to go 
