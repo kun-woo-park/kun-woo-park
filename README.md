@@ -22,7 +22,8 @@
 
 - A.I Senior Researcher in Deltax co. ltd.(AI Lab, 2021 ~ 2022)
 
-- Autonomous Driving Research Engineer in Beyless co. ltd.(Autonomous Driving Lab, 2022 ~)
+- Autonomous Driving Research Engineer in Beyless co. ltd.(Autonomous Driving Lab, 2022 ~ 2024)
+- Autonomous Driving Senior Researcher in Beyless co. ltd.(Autonomous Driving Lab, 2025 ~ )
 
 
 <div align=center>
